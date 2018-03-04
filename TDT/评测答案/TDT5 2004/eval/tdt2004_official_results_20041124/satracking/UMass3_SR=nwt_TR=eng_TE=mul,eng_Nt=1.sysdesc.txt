@@ -1,2 +1,0 @@
-SYSTEM NAME 1DB-rm-inc
-PRIMARY SYSTEM DESCRIPTION Vector Space Model, 1 Database, Increment thresholds when Prel drops below 0.33, Use negative feedback in a variation of Rocchio

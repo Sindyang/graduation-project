@@ -1,5 +1,0 @@
-ftp://jaguar.ncsl.nist.gov/tdt/
-
-ËÑË÷£º
-tdt2004_topic_annotations
-TDT5 annotations

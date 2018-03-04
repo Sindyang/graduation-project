@@ -1,5 +1,0 @@
-SYSTEM NAME: Umass_4DB_0.06
-TDT TASK DESIGNATION
-1) PRIMARY TEST SYSTEM DESCRIPTION: Cosine similarity
-Tracking is implemented using 4 databases--one global database and one in each language. The first highly similar, relevant stories which are not in english are used to seed the Mandarin and Arabic databases. Subsequently, for each story comparisons are performed with both, the global database and the database of the language in which  the story originally is.
-2) TRAINING: Trained on a specially sampled portion of the TDT4 corpus.

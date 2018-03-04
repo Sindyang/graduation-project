@@ -1,4 +1,0 @@
-SYSTEM NAME: Umass_cos
-TDT TASK DESIGNATION
-1) PRIMARY TEST SYSTEM DESCRIPTION: Cosine similarity
-2) TRAINING: Trained on a specially sampled portion of the TDT4 corpus.
