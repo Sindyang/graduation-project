@@ -1,0 +1,50 @@
+CMU/MULTILINK
+STORY LINK DETECTION
+
+1) Primary Test System Description:
+
+CMU's story-link detection system applies one or more similarity
+metrics to the pair of stories under test (after stopword removal and
+Wordnet-based stemming), using TF*IDF term weights which are updated
+incrementally on a per-news-source basis each time a new source file
+becomes "visible" to the system.  The news sources were grouped into
+three classes ({A,E,M}_TEXT) and six separate per-pair decision
+thresholds were trained using the TDT4 newswire-only subset.  TF*IDF
+weights start with the equivalent of a single story consisting of the
+text "a an the , .", yielding maximum adaptation to the test texts.
+
+2) Training:
+
+For the mul,nat case, we used CMU EBMT translations of the original
+Chinese and Arabic texts.  The Chinese translator was trained on 173
+million words of Chinese (approximately 7 million sentence pairs),
+primarily from the LDC-provided UN Chinese-English corpus.  The
+Arabic translator used some 85 million words of Arabic training text,
+primarily from the LDC-provided UN Arabic-English corpus.
+
+3) Differences for Contrastive Tests:
+
+The TE=mul,nat MULTIORG submission uses a majority voting scheme among
+four separate similarity measures, making a hard decision of YES only
+when at least three of the measures declare a link.  Three of the
+measures are cosine similarity, Mountford coefficient, and the
+Tanimoto measure.  The fourth is a windowed version of the cosine
+similarity metric, using the average of the four highest similarity
+values comparing 300-word sliding windows between the two stories,
+sliding the windows 15 words at a time to keep computational costs
+reasonable (top-N, window size, and stride are tunable parameters).
+If both stories under test have the same source language, the original
+native orthography is used, otherwise a CMU EBMT translation is used
+for non-English stories.
+
+The TE=mul,nat MULTIORG2 submission is identical to the MULTIORG
+submission except that a link is declared if any two of the individual
+similarity measures declares the stories linked (instead of any
+three), thus increasing recall.
+
+
+4) New Conditions for This Evaluation
+
+
+5) References
+

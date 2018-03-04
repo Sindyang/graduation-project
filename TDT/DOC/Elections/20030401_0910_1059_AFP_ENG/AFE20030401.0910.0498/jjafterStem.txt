@@ -1,0 +1,6 @@
+basqu
+region
+european
+local
+region
+ds

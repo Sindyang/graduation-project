@@ -1,0 +1,17 @@
+IBM T. J. Watson Research Center
+      
+TDT-2004 New Event Detection
+newswire text, given boundaries
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+   A vanilla tf/idf-based system.
+ 
+2) TRAINING: 
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+    IBMB1: tf/idf baseline;
+	   looking-back window: documents in the past 30 days. 
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+
+5) REFERENCES: 

@@ -1,0 +1,66 @@
+CMU/MULTILINK
+STORY LINK DETECTION
+
+1) Primary Test System Description:
+
+CMU's story-link detection system applies one or more similarity
+metrics to the pair of stories under test (after stopword removal and
+Wordnet-based stemming), using TF*IDF term weights which are updated
+incrementally on a per-news-source basis each time a new source file
+becomes "visible" to the system.  The news sources were grouped into
+three classes ({A,E,M}_TEXT) and six separate per-pair decision
+thresholds were trained using the TDT4 newswire-only subset.  TF*IDF
+weights start with the equivalent of a single story consisting of the
+text "a an the , .", yielding maximum adaptation to the test texts.
+
+2) Training:
+
+For the mul,nat case, we used CMU EBMT translations of the original
+Chinese and Arabic texts.  The Chinese translator was trained on 173
+million words of Chinese (approximately 7 million sentence pairs),
+primarily from the LDC-provided UN Chinese-English corpus.  The
+Arabic translator used some 85 million words of Arabic training text,
+primarily from the LDC-provided UN Arabic-English corpus.
+
+3) Differences for Contrastive Tests:
+
+The BASELINE submission used the cosine similarity metric as the
+sole measure of similarity, making this system equivalent to our
+2002 submission with re-tuned decision thresholds.
+
+The HIGHP submission manually adjusts the decision thresholds of
+the BASELINE system towards higher precision (i.e. lower false alarm
+rate).
+
+The HIGHR submission manually adjusts the decision thresholds of
+the BASELINE system towards higher recall (i.e. lower miss rate).
+
+The MULTI submission uses a majority voting scheme among five separate
+similarity measures.  Three of these measures are similarity ratio,
+Mountford coefficient, and the Lance-Williams measure.  The other
+two similarity measures are windowed versions of the Mountford coefficient
+and a BLEU-like symmetric n-gram overlap measure (giving equal weight
+to unigrams and bigrams).  The similarity scores for the windowed
+measures use the average of the four highest similarity values comparing
+300-word sliding windows between the two stories, sliding the windows
+15 words at a time to keep computational costs reasonable (top-N, window
+size, and stride are tunable parameters).
+
+The MULTIORG submission also uses a voting scheme, but differs by
+comparing the native-orthography versions of stories when both stories
+have the same source language and only using the machine-translated
+versions for non-English sources when the source languages differ.
+The similarity measures are the same as for the MULTI submission.
+
+The MULTISEG submission uses native orthography just as MULTIORG does,
+but the Chinese native-orthography files have been re-segmented.  For
+this condition, training indicated that the best combination of measures
+was a two-of-four vote among cosine similarity, similarity ratio, Mountford
+coefficient, and Lance-Williams measure.
+
+
+4) New Conditions for This Evaluation
+
+
+5) References
+

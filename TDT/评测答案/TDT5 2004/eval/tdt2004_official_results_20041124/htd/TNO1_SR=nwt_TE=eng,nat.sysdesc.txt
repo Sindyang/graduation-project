@@ -1,0 +1,13 @@
+tno/tno-r3-96-m10
+htd_SR=nwt_TE=eng,nat
+
+1) The TNO hierarchical topic detection system consists of four steps: firstly, a similarity matrix is built for a sample of the document set using a symmetrical version of document likelihood (cf. our TDT2001 paper). We used a sample size of 20000 documents. The second step consists of a hierarchical clustering step using average pairwise linking. Subsequently the binary tree is simplified in order to optimize travel cost. Finally the complementary documents of the test collection are merged in the tree, using document likelihood. 
+
+2) not applicable
+
+3) A vertex in the hierarchical clustering of the sample document set is removed if it doesn't have any documents directly attached to it and has a dissimilarity higher than or equal to 0.96. The remaining vertices without a parent ("local" tops) are now put together to a balanced tree  with a branching factor of 3 (using the number of total documents below a vertex as weight).
+The remaining documents are added to all of the vertices of the top 10 likelihood documents from the test set.
+
+4) not applicable
+
+5) Spitters, M. and W. Kraaij, "Unsupervised Event Clustering in Multilingual News Streams," Proceedings of the LREC02 workshop on Event Modelling for Multilingual Document Linking, May 2002, Las Palmas, Spain. 

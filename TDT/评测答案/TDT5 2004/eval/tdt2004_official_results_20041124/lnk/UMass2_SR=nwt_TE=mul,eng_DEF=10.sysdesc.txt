@@ -1,0 +1,11 @@
+SYSTEM NAME: Umass_1D-costfidf
+TDT TASK DESIGNATION
+
+1) PRIMARY TEST SYSTEM DESCRIPTION: Cosine similarity 
+   Link detection comparing 2 stories using a global database with all stories
+   in English. Both story vectors were weighted using tf*IDF weighting scheme.
+2) TRAINING:
+   The threshold was determined by training on the newswire portion of the TDT4
+   corpus. 
+     Threshold: 0.0929
+     Deferral:  10

@@ -1,0 +1,19 @@
+UIowa/UIowa_w
+Link Detection, deferral = 10
+
+1) PRIMARY TEST SYSTEM DESCRIPTION: Cook-Holder graph similarity on noun phrases
+
+2) TRAINING: TDT4 corpus
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST: N/A
+
+4) NEW CONDITIONS FOR THIS EVALUATION: threshold = 0.35, nodes are phrases w/3 of each other, limited to 40 most
+                                       frequent edges occurring in document
+
+5) REFERENCES:
+
+    D. J. Cook and L. B. Holder. Substructure discovery using minimum description length and background knowledge.
+    Journal of Artificial Intelligence Research, 1:231--255, 1994.
+
+    V. I. Levenshtein. Binary codes capable of correcting, deletions, insertions and reversals. Soviet Phys. Dokl.,
+    10:707--710, 1966.

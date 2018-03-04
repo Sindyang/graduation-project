@@ -1,0 +1,52 @@
+CMU/MULTILINK
+STORY LINK DETECTION
+
+1) Primary Test System Description:
+
+CMU's story-link detection system applies one or more similarity
+metrics to the pair of stories under test (after stopword removal and
+Wordnet-based stemming), using TF*IDF term weights which are updated
+incrementally on a per-news-source basis each time a new source file
+becomes "visible" to the system.  The news sources were grouped into
+three classes ({A,E,M}_TEXT) and six separate per-pair decision
+thresholds were trained using the TDT4 newswire-only subset.  TF*IDF
+weights start with the equivalent of a single story consisting of the
+text "a an the , .", yielding maximum adaptation to the test texts.
+
+2) Training:
+
+For the mul,nat case, we used CMU EBMT translations of the original
+Chinese and Arabic texts.  The Chinese translator was trained on 173
+million words of Chinese (approximately 7 million sentence pairs),
+primarily from the LDC-provided UN Chinese-English corpus.  The
+Arabic translator used some 85 million words of Arabic training text,
+primarily from the LDC-provided UN Arabic-English corpus.
+
+3) Differences for Contrastive Tests:
+
+The BASELINE submission used the cosine similarity metric as the sole
+measure of similarity, making this system equivalent to our 2002
+submission with re-tuned decision thresholds.  CMU EBMT translations
+were used for non-English sources instead of the provided
+translations.
+
+The HIGHR submission manually adjusts the decision thresholds of
+the BASELINE system towards higher recall (i.e. lower miss rate).
+
+The MULTIORG submission uses a majority voting scheme among four
+separate similarity measures (i.e. the hard decision is YES if at
+least three of the measures decide YES).  The compared versions are
+the native orthography if both stories have the same source language,
+and the CMU EBMT translations of non-English sources when the source
+languages differ.  The four measures are cosine similarity, the
+Tanimoto measure, Mountford coefficient, and a windowed cosine
+similarity (average of top four window-to-window similarities with a
+300-word windows size and 15-word stride to keep computational costs
+reasonable).
+
+
+4) New Conditions for This Evaluation
+
+
+5) References
+

@@ -1,0 +1,176 @@
+<htd rootVertex="undef" system="Reference for example_binTree.NStory65536.sys.xml 10 topics">
+<vertexSet>
+   <vertex name="topic0">
+      <story docID="s0"/>
+      <story docID="s1"/>
+      <story docID="s2"/>
+      <story docID="s3"/>
+      <story docID="s4"/>
+      <story docID="s5"/>
+      <story docID="s6"/>
+      <story docID="s7"/>
+      <story docID="s8"/>
+      <story docID="s9"/>
+      <story docID="s10"/>
+      <story docID="s11"/>
+      <story docID="s12"/>
+      <story docID="s13"/>
+      <story docID="s14"/>
+   </vertex>
+   <vertex name="topic1">
+      <story docID="s6553"/>
+      <story docID="s6554"/>
+      <story docID="s6555"/>
+      <story docID="s6556"/>
+      <story docID="s6557"/>
+      <story docID="s6558"/>
+      <story docID="s6559"/>
+      <story docID="s6560"/>
+      <story docID="s6561"/>
+      <story docID="s6562"/>
+      <story docID="s6563"/>
+      <story docID="s6564"/>
+      <story docID="s6565"/>
+      <story docID="s6566"/>
+      <story docID="s6567"/>
+   </vertex>
+   <vertex name="topic2">
+      <story docID="s13107"/>
+      <story docID="s13108"/>
+      <story docID="s13109"/>
+      <story docID="s13110"/>
+      <story docID="s13111"/>
+      <story docID="s13112"/>
+      <story docID="s13113"/>
+      <story docID="s13114"/>
+      <story docID="s13115"/>
+      <story docID="s13116"/>
+      <story docID="s13117"/>
+      <story docID="s13118"/>
+      <story docID="s13119"/>
+      <story docID="s13120"/>
+      <story docID="s13121"/>
+   </vertex>
+   <vertex name="topic3">
+      <story docID="s19660"/>
+      <story docID="s19661"/>
+      <story docID="s19662"/>
+      <story docID="s19663"/>
+      <story docID="s19664"/>
+      <story docID="s19665"/>
+      <story docID="s19666"/>
+      <story docID="s19667"/>
+      <story docID="s19668"/>
+      <story docID="s19669"/>
+      <story docID="s19670"/>
+      <story docID="s19671"/>
+      <story docID="s19672"/>
+      <story docID="s19673"/>
+      <story docID="s19674"/>
+   </vertex>
+   <vertex name="topic4">
+      <story docID="s26214"/>
+      <story docID="s26215"/>
+      <story docID="s26216"/>
+      <story docID="s26217"/>
+      <story docID="s26218"/>
+      <story docID="s26219"/>
+      <story docID="s26220"/>
+      <story docID="s26221"/>
+      <story docID="s26222"/>
+      <story docID="s26223"/>
+      <story docID="s26224"/>
+      <story docID="s26225"/>
+      <story docID="s26226"/>
+      <story docID="s26227"/>
+      <story docID="s26228"/>
+   </vertex>
+   <vertex name="topic5">
+      <story docID="s32768"/>
+      <story docID="s32769"/>
+      <story docID="s32770"/>
+      <story docID="s32771"/>
+      <story docID="s32772"/>
+      <story docID="s32773"/>
+      <story docID="s32774"/>
+      <story docID="s32775"/>
+      <story docID="s32776"/>
+      <story docID="s32777"/>
+      <story docID="s32778"/>
+      <story docID="s32779"/>
+      <story docID="s32780"/>
+      <story docID="s32781"/>
+      <story docID="s32782"/>
+   </vertex>
+   <vertex name="topic6">
+      <story docID="s39321"/>
+      <story docID="s39322"/>
+      <story docID="s39323"/>
+      <story docID="s39324"/>
+      <story docID="s39325"/>
+      <story docID="s39326"/>
+      <story docID="s39327"/>
+      <story docID="s39328"/>
+      <story docID="s39329"/>
+      <story docID="s39330"/>
+      <story docID="s39331"/>
+      <story docID="s39332"/>
+      <story docID="s39333"/>
+      <story docID="s39334"/>
+      <story docID="s39335"/>
+   </vertex>
+   <vertex name="topic7">
+      <story docID="s45875"/>
+      <story docID="s45876"/>
+      <story docID="s45877"/>
+      <story docID="s45878"/>
+      <story docID="s45879"/>
+      <story docID="s45880"/>
+      <story docID="s45881"/>
+      <story docID="s45882"/>
+      <story docID="s45883"/>
+      <story docID="s45884"/>
+      <story docID="s45885"/>
+      <story docID="s45886"/>
+      <story docID="s45887"/>
+      <story docID="s45888"/>
+      <story docID="s45889"/>
+   </vertex>
+   <vertex name="topic8">
+      <story docID="s52428"/>
+      <story docID="s52429"/>
+      <story docID="s52430"/>
+      <story docID="s52431"/>
+      <story docID="s52432"/>
+      <story docID="s52433"/>
+      <story docID="s52434"/>
+      <story docID="s52435"/>
+      <story docID="s52436"/>
+      <story docID="s52437"/>
+      <story docID="s52438"/>
+      <story docID="s52439"/>
+      <story docID="s52440"/>
+      <story docID="s52441"/>
+      <story docID="s52442"/>
+   </vertex>
+   <vertex name="topic9">
+      <story docID="s58982"/>
+      <story docID="s58983"/>
+      <story docID="s58984"/>
+      <story docID="s58985"/>
+      <story docID="s58986"/>
+      <story docID="s58987"/>
+      <story docID="s58988"/>
+      <story docID="s58989"/>
+      <story docID="s58990"/>
+      <story docID="s58991"/>
+      <story docID="s58992"/>
+      <story docID="s58993"/>
+      <story docID="s58994"/>
+      <story docID="s58995"/>
+      <story docID="s58996"/>
+   </vertex>
+</vertexSet>
+<edgeSet>
+</edgeSet>
+</htd>

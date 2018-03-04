@@ -1,0 +1,11 @@
+SYSTEM NAME: Umass_1D-rm
+TDT TASK DESIGNATION
+
+1) PRIMARY TEST SYSTEM DESCRIPTION: 
+   Link detection comparing 2 stories using a global database with all stories
+   in English using relevance Model with hypergeometric seed.
+2) TRAINING:
+   The threshold was determined by training on the newswire portion of the TDT4
+   corpus. 
+     Threshold: 0.1096
+     Deferral:  10

@@ -1,0 +1,101 @@
+
+    Site/System Name: UMASSv1
+TDT Task Designation: Hierarchical Topic Detection (HTD)
+
+
+
+(1) Primary Test System Description
+
+The system uses a bounded 1-NN approach to group stories in
+the same source into events. If the similarity of the story
+to its closest neighbor in the past exceeded a global threshold,
+the story was assigned to the same cluster as the neighbor. 
+Otherwise the story formed a new singleton cluster.
+
+Then the system does bounded agglomerative clustering. All events
+in the same source are sorted by the time stamp of the first
+story. Then we take a small window with WSIZE events and do
+agglomerative clustering until only WSIZE/BRANCH events are
+left. At each iteration, the closest cluster pair is taken
+and the later cluster is combined to the earlier one.
+The first half of the clusters are taken out and WSIZE/2
+events added in. The process continues until all events in the
+same source are finished.
+
+At this time we have n/BRANCH clusters for a single source
+with n events. And we do this bounded agglomerative clustering
+again and again until the number of clusters is smaller than
+STOP*sqrt(number_stories_in_this_source).
+
+There are more than one sources for each language, so they are
+merged and clustered for only one round, here the algorithm is
+still bounded agglomerative clustering in last paragraph. 
+Finally clusters from all languages are combined and clustered 
+until only 1 cluster is left.
+
+Cosine correlation (length-normalized inner product of two
+story vectors) was used as a similarity metric. Since 1-NN and
+agglomerative clustering favor large clusters, the similarity
+function is a little different when we calculate the similarity
+of two clusters.
+
+     sim(cluster1,cluster2)=sim_cos(v1,v2)/|cluster1|		(1)
+     
+where v1 and v2 are the tf*IDF centroids of two clusters.
+sim_cos is the cosine similarity. Here the similarity is normalized
+by the size of the first cluster. By this method, smaller clusters
+are preferred to be combined to. The first story of cluster
+1 is earlier than that of cluster 2, which is how we order
+clusters.
+
+Story vectors were weighted using tf*IDF weighting scheme:
+
+     TF*IDF = tf * log ( N+0.5 / DF ) / log ( N+1 )
+
+where tf is the number of times a given word occurs in a document,
+DF is the number of documents in the collection that contain one
+or more occurrences of the word, and N is the total number of 
+documents in the collection. 
+
+All collection-wide statistics are global: we assume the whole
+collection is available at the same time. Incoming stories were 
+lowercased and reduced to a root form by a dictionary-based 
+stemmer [1]. Stop-words were removed.
+
+
+(2) Training
+
+All collection-wide statistics are global.
+    
+Parameter values were estimated on the TDT-4 dataset and topics.
+But we used only the newswire stories in TDT-4: NYT, APW, ANN,
+ALH, AFP, ZBN, XIN.
+
+(3) Differences for each Contrastive Run
+
+The only difference to the baseline run (v1) is the similarity calculation
+(refer to equation (1)).
+
+
+(4) New Conditions for this Evaluation
+
+    The system settings used were the same as the baseline:
+
+                model1     = single link (set to knn 1)
+                model2	   = agglomerative clustering
+                knn bound  = 100
+                similarity = cosine
+                weighting  = idf
+                threshold  = 0.30
+                WSIZE      = 120
+                BRANCH     = 3
+                STOP       = 5
+                deferral   = infinite
+
+(5) References
+
+[1] (1993), Krovetz, R. "Viewing Morphology as an Inference
+Process," Proceedings of the Sixteenth Annual International ACM 
+SIGIR Conference on Research and Development in Information 
+Retrieval, 191-203.  
+

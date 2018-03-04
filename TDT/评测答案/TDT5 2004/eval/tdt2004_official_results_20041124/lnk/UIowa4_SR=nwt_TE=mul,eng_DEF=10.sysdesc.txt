@@ -1,0 +1,12 @@
+UIowa/UIowa_w
+Link Detection, deferral = 10
+
+1) PRIMARY TEST SYSTEM DESCRIPTION: stemmed, stopped word cosine vector similarity
+
+2) TRAINING: TDT4 corpus
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST: N/A
+
+4) NEW CONDITIONS FOR THIS EVALUATION: threshold = 0.5
+
+5) REFERENCES: N/A

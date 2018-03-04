@@ -1,0 +1,2 @@
+SYSTEM NAME 1DB-rm-inc
+PRIMARY SYSTEM DESCRIPTION Vector Space Model, 4 Database,  Use negative feedback in a variation of Rocchio

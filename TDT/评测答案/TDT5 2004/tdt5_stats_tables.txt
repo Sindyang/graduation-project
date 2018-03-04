@@ -1,0 +1,50 @@
+File counts by data type:
+-------------------------
+   5402 tkn/src
+   2079 mttkn
+   7481 Total
+
+
+TKN File counts by source and month:
+------------------------------------
+	AFP_ARB	AFP_ENG	AFP_MAN	ANN_ARB	APW_ENG	CNA_ENG	CNA_MAN	LAT_ENG	NYT_ENG	UMM_ARB	UMM_ENG	XIN_ARB	XIN_ENG	XIN_MAN	ZBN_MAN	Total
+200304	   61	  254	   30	   34	  272	    0	   31	    0	   52	    4	    4	   49	   80	  125	   53	 1049
+200305	   62	  244	   31	   42	  273	    0	   31	    0	   50	    4	    4	   49	   77	  114	   55	 1036
+200306	   57	  235	   30	   40	  202	    0	   30	    0	   48	    5	    5	   51	   78	  105	   35	  921
+200307	   60	  236	   31	   40	   85	    0	   32	    0	   51	    4	    4	   50	   83	  120	   36	  832
+200308	    6	   29	   31	   39	  229	   31	   31	   69	   44	    5	    5	   35	   67	   91	   38	  750
+200309	   30	    0	   30	   31	  269	   14	   14	  101	   50	    4	    4	   45	   74	  114	   34	  814
+Total	  276	  998	  183	  226	 1330	   45	  169	  170	  295	   26	   26	  279	  459	  669	  251	 5402
+
+MTTKN File counts by source and month:
+------------------------------------
+	AFP_ARB	AFP_MAN	ANN_ARB	CNA_MAN	UMM_ARB	XIN_ARB	XIN_MAN	ZBN_MAN	Total
+200304	   61	   30	   34	   31	    4	   49	  125	   53	  387
+200305	   62	   31	   42	   31	    4	   49	  114	   55	  388
+200306	   57	   30	   40	   30	    5	   51	  105	   35	  353
+200307	   60	   31	   40	   32	    4	   50	  120	   36	  373
+200308	    6	   31	   39	   31	    5	   35	   91	   38	  276
+200309	   30	   30	   31	   14	    4	   45	  114	   34	  302
+Total	  276	  183	  226	  169	   26	  279	  669	  251	 2079
+
+NEWS Story counts by source and month:
+--------------------------------------
+	AFP_ARB	AFP_ENG	AFP_MAN	ANN_ARB	APW_ENG	CNA_ENG	CNA_MAN	LAT_ENG	NYT_ENG	UMM_ARB	UMM_ENG	XIN_ARB	XIN_ENG	XIN_MAN	ZBN_MAN	Total
+200304	 7828	24574	  262	 1277	21614	    0	 1037	    0	 2237	  143	  141	 6027	10222	 7152	 2027	84541
+200305	 6794	23351	  422	 1373	21272	    0	  940	    0	 1968	  202	  202	 5843	 9442	 6198	 1844	79851
+200306	 6164	22153	  983	 1423	15652	    0	  748	    0	 1911	  283	  283	 5665	 9534	 5783	 1357	71939
+200307	 6000	22560	 1423	 1446	 6878	    0	  805	    0	 2049	  132	  132	 5791	10332	 6607	 1315	65470
+200308	  702	 2794	 1263	 1308	18238	  787	  676	 2814	 1685	  187	  188	 4470	 8242	 5056	 1246	49656
+200309	 3105	    0	 1302	 1335	21286	  330	  362	 3878	 2174	  157	  155	 5255	 9030	 6455	 1222	56046
+Total	30593	95432	 5655	 8162	104940	 1117	 4568	 6692	12024	 1104	 1101	33051	56802	37251	 9011	407503
+
+Average TKN records per story by source:
+----------------------------------------
+	AFP_ARB	AFP_ENG	AFP_MAN	ANN_ARB	APW_ENG	CNA_ENG	CNA_MAN	LAT_ENG	NYT_ENG	UMM_ARB	UMM_ENG	XIN_ARB	XIN_ENG	XIN_MAN	ZBN_MAN
+	  198	  317	  437	  664	  388	  248	  586	  680	  536	  256	  314	  172	  197	  498	  633
+
+Average MTTKN records per story by source:
+----------------------------------------
+	AFP_ARB	AFP_MAN	ANN_ARB	CNA_MAN	UMM_ARB	XIN_ARB	XIN_MAN	ZBN_MAN
+	  248	  256	  829	  351	  292	  198	  295	  389
+

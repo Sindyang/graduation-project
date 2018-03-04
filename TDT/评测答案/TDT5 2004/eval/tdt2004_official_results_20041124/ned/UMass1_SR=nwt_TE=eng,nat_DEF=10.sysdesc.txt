@@ -1,0 +1,68 @@
+
+    Site/System Name: UMassmodScore1
+TDT Task Designation: New Event Detection (NED)
+
+
+
+(1) Primary System Description
+
+The system uses a single nearest neighbor approach to determine
+whether a story is sufficiently similar to any previously seen 
+story. The belief in novelty of the story was taken to be the 
+average similarity with past stories minus similarity of the story to its closest neighbor in the past.
+
+Cosine correlation (length-normalized inner product of 
+story vectors) was used as a similarity metric. Both story vectors
+were weighted according the the following scheme:
+
+     TF = log (1 + tf)
+
+     IDF = log ((N / DF) 0.5)
+
+where tf is the number of times a given word occurs in a document,
+DL is the document length (total number of word occurrences), 
+avgDL is the average document length in the collection, DF
+is the number of documents in the collection that contain one
+or more occurrences of the word, and N is the total number of 
+documents in the collection. 
+
+All collection-wide statistics are incremental: we start with an 
+empty collection and update statistics as the stories arrive.
+Incoming stories were lowercased and reduced to a root form by
+a dictionary-based stemmer [2]. Stop-words were removed.
+
+The overlap of named entities and non named-entites with the five highest matching( by cosine similarity) stories was measured. Using these scores as further evidence,the original confidence score assigned to the story was modified.
+
+(2) Training
+    
+    Newswire documents from TDT2, TDT3 and TDT4.
+
+
+(3) Differences for each Contrastive Run
+
+    No contrastive runs performed.
+
+
+(4) New Conditions for this Evaluation
+
+    The same system settings used were:
+
+                model      = single link (set to knn 1)
+                similarity = cosine
+                weighting  = tf*idf
+                threshold  = -0.2
+                deferral   = 10
+
+
+(5) References
+
+[1] (1999), Allan, J., Callan, J., Feng, F. and Malin, D. 
+"INQUERY and TREC-8," to appear in the Proceedings of TREC-8, 
+November, 1999. 
+
+[2] (1993), Krovetz, R. "Viewing Morphology as an Inference
+Process," Proceedings of the Sixteenth Annual International ACM 
+SIGIR Conference on Research and Development in Information 
+Retrieval, 191-203.  
+
+[3] (2000), Robert E. Schapire and Yoram Singer. "BoosTexter: A boosting-based system for text categorization". Machine Learning, 39(2/3):135-168, 2000. 

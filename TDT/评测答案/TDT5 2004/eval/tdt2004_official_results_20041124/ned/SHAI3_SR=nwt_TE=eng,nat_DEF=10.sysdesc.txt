@@ -1,0 +1,31 @@
+shai/baseline+sentence
+TDT New Event Detection Task
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+Combines the following NED methods:
+a) Uses tf-idf weighting with pairwise full-text cosine similarity.
+b) Presence of a sentence in one story that matches the text of another
+story implies a link.  Matching is done by binary feature overlap
+between the sentence and the story.  Pairwise sentence/story matching
+is performed.
+
+Classifiers are combined in a linear pipeline.  If (a) judges a story
+to be non-FS, that judgment is kept.  If it judges a story to be FS,
+(b) is consulted and its judgment used instead.  The intent is to allow
+(b) to fix a class of errors made by (a) by recognizing linking events
+that relate a story from a new activity of a topic to stories from
+previous activities.
+
+2) TRAINING:
+(a) was thresholded to 0.8092 and (b) to 0.3900 based on the harmonic
+mean of optimized values from tdt3 and tdt4 newswire datasets prior
+to pipelined combination.
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+None.
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+None.
+
+5) REFERENCES:
+None.

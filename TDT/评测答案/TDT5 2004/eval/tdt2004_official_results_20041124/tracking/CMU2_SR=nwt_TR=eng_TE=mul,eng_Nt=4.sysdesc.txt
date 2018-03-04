@@ -1,0 +1,58 @@
+CMU/kNN-score
+TDT3 tracking with manually-segmented story boundaries
+
+1) PRIMARY TEST SYSTEM DESCRIPTION
+
+   The kNN-score algorithm generates relevance scores for a given document
+   and class (event) by retrieving the kp most-similar (according to the
+   standard cosine similiarity metric) in-class documents and kn most-
+   similar out-of-class documents.  The relevance score for the given
+   document (designated "d")is then computed as
+
+   (1/kp)*SUM(k=1 to kp):SIM(d,IC(k,c)) - (1/kn)*SUM(l=1 to kn):SIM(d,OC(l,c))
+
+   where "d" is the document for which the relevance score is being
+   computed, "c" is the class (e.g. event), SUM(<var>= <a> to <b>):<expr>
+   is the sum of the values of <expr> as <var> goes from <a> to <b>,
+   IC(k,c) is the kth most-similar in-class document to document "d" for 
+   class c, OC(k,c) is the kth most-similar out-of-class document
+   for class c, and SIM(a,b) is the standard cosine similarity between
+   documents a and b.
+
+2) TRAINING
+   Nt = 4
+   term-weighting scheme: TFxIDF with cosine-normalization, where 
+      TF(x)= 1 + ln(# of times term x occurs in document) 
+      IDF(x) = ln((# of documents in corpus seen so far)/
+                    (# of documents term x appears in))
+   kp = 4
+   kn = 2500
+   rth = 0.25	
+   decision threshold = 0.035
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+   Separate kp and kn instead of a single k
+   No time window
+
+5) REFERENCES
+   a) Y. Yang and J.G. Carbonell and R. Brown and Thomas Pierce and
+        Brian T. Archibald and Xin Liu, "Learning Approaches to Topic
+        Detection and Tracking", IEEE EXPERT, Special Issue on
+        Applications of Intelligent Information Retrieval (submitted).
+
+   b) James Allan and Jaime Carbonell and George Doddington and
+           Jon Yamron and Yiming Yang, "Topic Detection and Tracking
+           Pilot Study: Final Report", Proceedings of the DARPA
+           Broadcast News Transcription and Understanding Workshop, 1998.
+ 
+
+   c) Y. Yang, "An evaluation of statistical approaches to text 
+                categorization", Journal of Information Retrieval, 
+               1998 (to appear).
+
+   d) Y. Yang, "Expert Network: Effective and Efficient Learning from
+        Human Decisions in Text Categorization and Retrieval",
+        17th Ann Int ACM SIGIR Conference on Research and Development
+        in Information Retrieval (SIGIR'94), pages 13-22.

@@ -1,0 +1,31 @@
+shai/sentence
+TDT New Event Detection Task
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+Presence of a sentence in one story that matches the text of another
+story implies a link.  Matching is done by binary feature overlap
+between the sentence and the story.  Pairwise sentence/story matching
+is performed.
+
+<PARAM name="min_sentence_size" value="15" />
+<PARAM name="min_caps_size" value="0" />
+<PARAM name="drop_first_token" value="false" />
+<PARAM name="granularity" value="2" />
+<PARAM name="sentence_type" value="3" />
+<PARAM name="drop_days" value="false" />
+<PARAM name="match_threshold" value="0.77775" />
+<PARAM name="caps_threshold" value="1.0" />
+
+2) TRAINING:
+Rethresholded to 0.5858 based on harmonic mean of tdt3 and tdt4 
+optimal thresholds.  Designed to work in a pileline with the
+baseline to correct missed story linkages.
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+None.
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+None.
+
+5) REFERENCES:
+None.

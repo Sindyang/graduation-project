@@ -1,0 +1,5 @@
+SYSTEM NAME: Umass_cos
+TDT TASK DESIGNATION
+1) PRIMARY TEST SYSTEM DESCRIPTION: Relevance Models
+2) TRAINING: Trained on the TDT3 corpus (same system as last year).
+

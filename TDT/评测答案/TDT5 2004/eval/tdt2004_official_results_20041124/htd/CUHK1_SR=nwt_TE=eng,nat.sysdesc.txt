@@ -1,0 +1,26 @@
+cuhk (The Chinese University of Hong Kong)
+Hierarchical Topic Detection
+
+1) Primary Test System Description
+
+We make use of a combination of k-means clustering 
+and divisive centroid clustering approach for 
+hierarchical topic detection. 
+K-means clustering is used to group the stories 
+to general topic. 
+Each general topic is divided to specific ones 
+with the help of divisive centroid clustering.  
+
+2) Training
+
+We do not conduct any training process.
+
+3) Differences for Each Contrastive Test:
+
+No contrastive tests were submitted.
+
+4) New Conditions for this Evaluation:
+
+All stories are processed.
+
+5) References

@@ -1,0 +1,37 @@
+shai/majority
+TDT New Event Detection Task (Official submission)
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+Combines the following NED methods in a committee of three members.  A majority
+voting scheme is used whereby the voting majority (FS, non-FS) determines the
+final judgment.  The associated confidence is the average normalized distance 
+from the judgment threshold for the models in the majority.  
+   + Baseline - Uses tf-idf weighting with pairwise full-text cosine similarity.
+   + LocationAssoc - Captures co-occurrence counts between location entities 
+     and non-location words in a sliding window.  Uses the Dice coefficient 
+     to generate an association value for the pair.  Significant pairs are 
+     added as a feature to the story's vector representation and constituent
+     words in the pair are removed from the vector.  The pair's weight is the
+     sum of its member's tf.idf weights.  Uses pairwise full-text cosine 
+     similarity.
+   + SentenceLink - Presence of a sentence in one story that matches the text 
+     of another story implies a link.  Matching is done by binary feature 
+     overlap between the sentence and the story.  Pairwise sentence/story 
+     matching is performed.
+
+2) TRAINING:
+The global idf counts are computed from stories sampled from the
+tdt3 corpus.
+
+Baseline threshold = 0.8092
+LocationAssoc = 0.7964
+SentenceLink = 0.5858
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+None.
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+None.
+
+5) REFERENCES:
+None.

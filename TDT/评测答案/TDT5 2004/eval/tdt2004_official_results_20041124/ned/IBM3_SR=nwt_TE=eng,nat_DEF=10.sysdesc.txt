@@ -1,0 +1,20 @@
+IBM T. J. Watson Research Center
+      
+TDT-2004 New Event Detection
+newswire text, given boundaries
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+
+   The system is similar to IBMA1 except a different look-back window size.
+ 
+2) TRAINING: 
+   The MaxEnt model is trained on TDT3.
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+    IBMA3: combination of ACE MaxEnt model with tf/idf baseline;
+	   looking-back window: documents in the past 60 days. 
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+    Use ACE for TDT/NED
+
+5) REFERENCES: 

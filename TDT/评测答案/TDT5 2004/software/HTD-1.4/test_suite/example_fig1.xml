@@ -1,0 +1,54 @@
+<htd rootVertex="a" system="ExampleSystemOutput">
+<vertexSet>
+   <vertex name="a">
+   </vertex>
+   <vertex name="b">
+      <story docID="s1"/>
+      <story docID="s2"/>
+   </vertex>
+   <vertex name="c">
+      <story docID="s3"/>
+      <story docID="s4"/>
+   </vertex>
+   <vertex name="d">
+      <story docID="s5"/>
+      <story docID="s6"/>
+   </vertex>
+   <vertex name="e">
+      <story docID="s7"/>
+      <story docID="s8"/>
+   </vertex>
+   <vertex name="f">
+   </vertex>
+   <vertex name="g">
+      <story docID="s9"/>
+      <story docID="s10"/>
+   </vertex>
+   <vertex name="h">
+      <story docID="s8"/>
+      <story docID="s11"/>
+      <story docID="s12"/>
+   </vertex>
+   <vertex name="i">
+      <story docID="s13"/>
+      <story docID="s14"/>
+   </vertex>
+   <vertex name="j">
+      <story docID="s15"/>
+      <story docID="s16"/>
+   </vertex>
+</vertexSet>
+<edgeSet>
+   <edge srcVertex="c" destVertex="g"/>
+   <edge srcVertex="c" destVertex="f"/>
+   <edge srcVertex="a" destVertex="c"/>
+   <edge srcVertex="a" destVertex="b"/>
+   <edge srcVertex="g" destVertex="j"/>
+   <edge srcVertex="g" destVertex="i"/>
+   <edge srcVertex="b" destVertex="e"/>
+   <edge srcVertex="b" destVertex="d"/>
+   <edge srcVertex="b" destVertex="f"/>
+   <edge srcVertex="f" destVertex="h"/>
+   <edge srcVertex="f" destVertex="i"/>
+</edgeSet>
+</htd>

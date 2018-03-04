@@ -1,0 +1,29 @@
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+
+COSINE is an old tracker using simple cosine similarity between the
+positive training instances and the new story being tracked.  If
+multiple positive training instances are available, the decision is
+based on the second-highest similarity score.  If the decision would
+be YES and there are negative training instances, the provisional
+decision can be vetoed by the negative training instances if the new
+story is more similar to a negative instance than to any positive
+instance.
+
+Adaptation consists of adding the new story to either the set of
+positive training instances or the set of negative training instances,
+as appropriate.  The number of additions to the training sets is
+bounded to keep down the computational cost and to avoid indefinite
+expansion of the YES decisions or excessive vetos (for TDT4nwt, the
+optimum proved to be 18 positive and 18 negative; for TDT5, with its
+lack of complete annotation, the negative limit needs to be lower and
+was set to 2).
+
+2) TRAINING:
+
+see above
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+
+5) REFERENCES:

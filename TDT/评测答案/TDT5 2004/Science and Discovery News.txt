@@ -1,0 +1,569 @@
+关于“科学与发现”，共11个topic，8个MAN，3个ARB。
+7个topic只有1篇报道；其余4个topic的篇数为：2、3、272、46      总共：330篇报道。平均每个topic有30篇报道。
+
+55079.  Large oilfield discovered 
+Seminal Event 	MAN
+
+WHO: oilfield
+WHAT: A large oilfield was discovered.
+WHEN: 07/29/2003
+WHERE: Shandong, China
+
+Topic Explication 
+New oil reserves of billions of tons have been discovered at Shengli oilfield, China's second largest crude-oil producer. The new oil reserve was prospected in Dongying, where is deemed as a region extremely rich in oil and gas reserves. Oilfields have been continuously prospected in Dongying since 1960s. 
+Background 
+With a history of over 40 years, Shengli Oilfield, based in Shandong Province, east China, has extended its area of oil prospecting from 60,000 to 170,000 sq km and controls 17 bn tons of oil and gas resources. 
+Terminology 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: ZBN20030729.1000.0115
+
+<ONTOPIC topicid=55079 level=YES docno=ZBN20030729.1000.0115 fileid=20030729_1000_1200_ZBN_CHN comments="none">
+<ONTOPIC topicid=55079 level=YES docno=XIN20030728.0130.0012 fileid=20030728_0130_0330_XIN_CHN comments="none">
+*****************************************************************************************************************************
+
+55113.  Discovery of Ancient Tomb in Syria 
+Seminal Event 	ARB
+
+WHO: Department of Tarsus Monument 
+WHAT: Discovery of Ancient Tomb in Tarsus North Syria. 
+WHEN: 07/15/2003
+WHERE: Tarsus, North Syria
+
+Topic Explication 
+Discovey of Ancient Tomb in Syria 
+Background 
+Discovery of Ancient Tomb in Syria 
+Terminology 
+Tarsus
+Syria 
+Timeline 
+07/15/2003 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIA20030715.0600.0083
+
+<ONTOPIC topicid=55113 level=YES docno=XIA20030715.0600.0083 fileid=20030715_0600_0800_XIN_ARB comments="none">
+*****************************************************************************************************************************
+
+55124.  15th Annual Meeting of "MACCS" 
+Seminal Event 	ARB
+
+WHO: conference attendees
+WHAT: The 15th Annual Meeting of the Mediterranean Association of Cardiology and Cardiac Surgery (MACCS) will convene, including sessions on ischemic heart disease, treatment of heart failure, robotic surgery, and interventional cardiology.
+WHEN: 09/10/2003 - 09/13/2003
+WHERE: Movenpick Hotel, Beirut, Lebanon
+
+Topic Explication 
+Four hundred physicians from around the world are attending the 15th Annual Meeting of the Mediterranean Association of Cardiology and Cardiac Surgery (MACCS) at the Movenpick Hotel in Beirut, Lebanon. Among the attendees were representatives from the following organizations: St Luke's Episcopal Hospital - Home of Texas Heart Institute, The Mayo Clinic, Chicago University, Institut de Cardiologie de La Pitie-Salpetriere, and the Pan Arab Society of Interventional Cardiology.
+
+Background 
+For the second time since its creation in 1986, the Mediterranean Association of Cardiology and Cardiac Surgery will convene Beirut, Lebanon. 
+Terminology 
+Mediterranean Association of Cardiology and Cardiac Surgery 
+Movenpick Hotel 
+Beirut
+
+Timeline 
+09/10/2003 - 09/13/2003 
+Rule of Interpretation Science and Discovery News 
+Seed Story: ANN20030909.1100.0039
+
+<ONTOPIC topicid=55124 level=YES docno=ANN20030909.1100.0039 fileid=20030909_1100_1230_ANN_ARB comments="none">
+<ONTOPIC topicid=55124 level=YES docno=ANN20030909.1100.0043 fileid=20030909_1100_1230_ANN_ARB comments="hard">
+<ONTOPIC topicid=55124 level=YES docno=ANN20030911.1100.0036 fileid=20030911_1100_1230_ANN_ARB comments="none">
+*****************************************************************************************************************************
+
+55128.  Mad cow disease in North America 
+Seminal Event 	MAN
+
+WHO: farmers, North Americans 
+WHAT: A case of mad cow disease was found in Canada.
+WHEN: 05/20/2003 
+WHERE: Alberta, Canada 
+
+Topic Explication 
+A case of bovine spongiform encephalophthy was reported in Alberta, Canada, prompting a quarantine of the infected cow's herd, followed by a mass slaughter of all cows who had come into contact with it. This is the first case of BSE in North America. 
+Background 
+On January 31, 2003, a cow in Northern Alberta, Canada was identified at slaughter as a downer (unable to walk). It had been sent to a provincially inspected abattoir, where the animal was condemned due to a post mortem finding of pneumonia. The cow was sent to the Alberta provincial laboratory for BSE (bovine spongiform encephalopathy) testing under Canada's program of routine surveillance for this disease. On May 20, 2003 the international reference laboratory in the United Kingdom confirmed the diagnosis of BSE. This is the first case of BSE in North America. 
+Terminology 
+BSE (bovine spongiform encephalopathy) 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030521.0130.0018
+
+<ONTOPIC topicid=55128 level=YES docno=XIE20030525.1300.0171 fileid=20030525_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030626.1300.0213 fileid=20030626_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030625.1013.0461 fileid=20030625_1013_1203_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030712.0900.0029 fileid=20030712_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030717.1700.0357 fileid=20030717_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030603.0928.0506 fileid=20030603_0928_1113_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030826.1700.0304 fileid=20030826_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030625.1013.0511 fileid=20030625_1013_1203_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030612.1324.0601 fileid=20030612_1324_1523_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030617.1456.0712 fileid=20030617_1456_1747_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1635.0621 fileid=20030520_1635_1838_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1430.0595 fileid=20030520_1430_1632_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030808.2001.0616 fileid=20030808_2001_2329_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0633 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030715.1626.0760 fileid=20030715_1626_1802_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030715.1213.0601 fileid=20030715_1213_1441_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030808.1653.0563 fileid=20030808_1653_2001_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030808.1653.0546 fileid=20030808_1653_2001_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.1300.0202 fileid=20030521_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.1300.0185 fileid=20030521_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030617.1217.0686 fileid=20030617_1217_1456_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030528.1301.0499 fileid=20030528_1301_1522_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.0000.0072 fileid=20030522_0000_0335_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030728.1230.0566 fileid=20030728_1230_1458_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030618.1127.0558 fileid=20030618_1127_1234_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030617.1456.0784 fileid=20030617_1456_1747_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030612.1128.0585 fileid=20030612_1128_1318_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030808.1653.0496 fileid=20030808_1653_2001_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1636.0770 fileid=20030522_1636_2023_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIA20030521.1500.0176 fileid=20030521_1500_1700_XIN_ARB comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0645 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030715.0811.0377 fileid=20030715_0811_1012_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030526.1547.0500 fileid=20030526_1547_2001_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030523.1700.0353 fileid=20030523_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030723.1211.0645 fileid=20030723_1211_1501_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030605.0900.0010 fileid=20030605_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030910.1700.0276 fileid=20030910_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030811.1700.0302 fileid=20030811_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030531.1300.0175 fileid=20030531_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.0900.0109 fileid=20030521_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030917.1718.0665 fileid=20030917_1718_1931_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0710.0261 fileid=20030521_0710_0901_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030918.0323.0082 fileid=20030918_0323_0613_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030526.1642.0680 fileid=20030526_1642_2327_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030709.0353.0139 fileid=20030709_0353_0548_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030604.1700.0325 fileid=20030604_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030620.1303.0697 fileid=20030620_1303_1657_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030605.0741.0239 fileid=20030605_0741_0938_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030719.0503.0092 fileid=20030719_0503_0846_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030724.1300.0127 fileid=20030724_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030630.1300.0219 fileid=20030630_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0722 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIA20030521.1500.0112 fileid=20030521_1500_1700_XIN_ARB comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0686 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0678 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1752.0757 fileid=20030520_1752_2329_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0744 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0636 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1636.0794 fileid=20030522_1636_2023_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1636.0829 fileid=20030522_1636_2023_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1228.0667 fileid=20030521_1228_1418_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1330.0740 fileid=20030522_1330_1634_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1148.0650 fileid=20030522_1148_1325_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1840.0687 fileid=20030520_1840_2019_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1840.0729 fileid=20030520_1840_2019_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1635.0677 fileid=20030520_1635_1838_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1755.0877 fileid=20030521_1755_2316_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1425.0829 fileid=20030521_1425_1752_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0710.0215 fileid=20030521_0710_0901_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.0851.0482 fileid=20030521_0851_1044_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.2020.0762 fileid=20030520_2020_2349_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0011.0042 fileid=20030521_0011_0439_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0904.0305 fileid=20030521_0904_1042_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0011.0056 fileid=20030521_0011_0439_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1430.0529 fileid=20030520_1430_1632_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030520.1700.0269 fileid=20030520_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.2020.0790 fileid=20030520_2020_2349_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1243.0505 fileid=20030520_1243_1428_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.0810.0342 fileid=20030522_0810_1024_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1330.0703 fileid=20030522_1330_1634_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0441.0161 fileid=20030521_0441_0710_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1430.0588 fileid=20030520_1430_1632_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.1600.0694 fileid=20030521_1600_1800_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.1600.0707 fileid=20030521_1600_1800_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.2010.0816 fileid=20030521_2010_2108_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.0630.0238 fileid=20030522_0630_0805_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030525.1255.0339 fileid=20030525_1255_1521_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.1302.0585 fileid=20030522_1302_1433_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.1302.0553 fileid=20030522_1302_1433_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1430.0534 fileid=20030520_1430_1632_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030527.0447.0084 fileid=20030527_0447_0708_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.0717.0347 fileid=20030521_0717_0851_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.1302.0546 fileid=20030522_1302_1433_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.1600.0635 fileid=20030521_1600_1800_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.1600.0636 fileid=20030521_1600_1800_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030525.1527.0417 fileid=20030525_1527_1935_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030524.1207.0386 fileid=20030524_1207_1545_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.0340.0201 fileid=20030522_0340_0543_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030525.1300.0170 fileid=20030525_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030523.1100.0435 fileid=20030523_1100_1304_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.1434.0645 fileid=20030522_1434_1603_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030527.1506.0554 fileid=20030527_1506_1716_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1244.0407 fileid=20030525_1244_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=LAT20030825.1142.0710 fileid=20030825_1142_1743_LAT_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030526.2005.0551 fileid=20030526_2005_2357_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030524.1415.0290 fileid=20030524_1415_1846_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030523.1501.0578 fileid=20030523_1501_1718_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030526.1547.0498 fileid=20030526_1547_2001_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030602.1239.0688 fileid=20030602_1239_1450_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030523.2000.0706 fileid=20030523_2000_2352_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.0531.0237 fileid=20030521_0531_0716_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0751 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030528.1522.0543 fileid=20030528_1522_1818_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030530.1707.0706 fileid=20030530_1707_2309_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030718.1718.0759 fileid=20030718_1718_2347_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030525.1255.0293 fileid=20030525_1255_1521_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030603.1254.0731 fileid=20030603_1254_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1045.0579 fileid=20030521_1045_1227_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1752.0833 fileid=20030520_1752_2329_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030605.1426.0690 fileid=20030605_1426_1834_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030530.1430.0525 fileid=20030530_1430_1638_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1755.0843 fileid=20030521_1755_2316_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.1700.0368 fileid=20030521_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1636.0819 fileid=20030522_1636_2023_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030606.1346.0682 fileid=20030606_1346_1719_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030529.1600.0617 fileid=20030529_1600_1833_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030529.1600.0622 fileid=20030529_1600_1833_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030529.1600.0581 fileid=20030529_1600_1833_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030703.1423.0650 fileid=20030703_1423_1822_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1244.0436 fileid=20030525_1244_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1530.0510 fileid=20030525_1530_1843_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030605.1213.0651 fileid=20030605_1213_1424_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.0630.0253 fileid=20030522_0630_0805_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=NYT20030522.1827.0053 fileid=20030522_1827_2353_NYT_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030627.1244.0603 fileid=20030627_1244_1627_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030627.1024.0469 fileid=20030627_1024_1242_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.1148.0623 fileid=20030522_1148_1325_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030609.1253.0586 fileid=20030609_1253_1528_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1752.0802 fileid=20030520_1752_2329_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030531.1248.0519 fileid=20030531_1248_1644_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030624.1354.0645 fileid=20030624_1354_1708_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0628 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.0900.0069 fileid=20030521_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030526.1323.0629 fileid=20030526_1323_1642_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1243.0481 fileid=20030520_1243_1428_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1430.0526 fileid=20030520_1430_1632_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1243.0477 fileid=20030520_1243_1428_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030528.1521.0744 fileid=20030528_1521_1756_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030605.1427.0611 fileid=20030605_1427_1616_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030606.1607.0568 fileid=20030606_1607_1814_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1425.0781 fileid=20030521_1425_1752_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1436.0745 fileid=20030520_1436_1750_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030529.0001.0062 fileid=20030529_0001_0327_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030527.1821.0750 fileid=20030527_1821_2341_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=NYT20030526.1424.0037 fileid=20030526_1424_2359_NYT_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030603.1607.0622 fileid=20030603_1607_1814_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.0717.0399 fileid=20030521_0717_0851_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030529.0001.0031 fileid=20030529_0001_0327_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.0001.0013 fileid=20030521_0001_0344_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.0340.0171 fileid=20030522_0340_0543_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030527.1700.0358 fileid=20030527_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030522.1300.0231 fileid=20030522_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030609.1530.0666 fileid=20030609_1530_1852_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030520.1700.0359 fileid=20030520_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030604.1756.0744 fileid=20030604_1756_2320_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0011.0029 fileid=20030521_0011_0439_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030603.1403.0518 fileid=20030603_1403_1606_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030604.1054.0573 fileid=20030604_1054_1244_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030602.1300.0243 fileid=20030602_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030707.1410.0664 fileid=20030707_1410_1758_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030721.0900.0009 fileid=20030721_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030523.1329.0629 fileid=20030523_1329_1654_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030520.1700.0361 fileid=20030520_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030609.1405.0489 fileid=20030609_1405_1612_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030520.1700.0292 fileid=20030520_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030522.0954.0566 fileid=20030522_0954_1147_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030719.0900.0017 fileid=20030719_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030523.1700.0333 fileid=20030523_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030605.1427.0615 fileid=20030605_1427_1616_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030703.1700.0361 fileid=20030703_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030522.1700.0271 fileid=20030522_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030606.1300.0236 fileid=20030606_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.1635.0636 fileid=20030520_1635_1838_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030523.1125.0534 fileid=20030523_1125_1329_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030710.1928.0781 fileid=20030710_1928_2343_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030707.1700.0267 fileid=20030707_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030613.1348.0572 fileid=20030613_1348_1717_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030610.1300.0269 fileid=20030610_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030604.2046.0743 fileid=20030604_2046_2356_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030605.0900.0015 fileid=20030605_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030609.1253.0565 fileid=20030609_1253_1528_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030610.1700.0363 fileid=20030610_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030528.2050.0714 fileid=20030528_2050_2359_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0653 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030523.1656.0689 fileid=20030523_1656_2251_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030603.0928.0545 fileid=20030603_0928_1113_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030602.1351.0568 fileid=20030602_1351_1531_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030612.1700.0304 fileid=20030612_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030709.1700.0307 fileid=20030709_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030617.1540.0675 fileid=20030617_1540_1758_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030604.1836.0695 fileid=20030604_1836_2042_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030522.1302.0530 fileid=20030522_1302_1433_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030607.1300.0145 fileid=20030607_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030707.1300.0197 fileid=20030707_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030521.1700.0269 fileid=20030521_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030710.1510.0704 fileid=20030710_1510_1912_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1244.0368 fileid=20030525_1244_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030627.1024.0437 fileid=20030627_1024_1242_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1045.0584 fileid=20030521_1045_1227_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030724.1433.0711 fileid=20030724_1433_1818_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030701.1755.0734 fileid=20030701_1755_2342_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0620 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030521.0011.0016 fileid=20030521_0011_0439_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=NYT20030808.1927.0060 fileid=20030808_1927_2353_NYT_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030528.1700.0351 fileid=20030528_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030523.0538.0291 fileid=20030523_0538_0747_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030918.1421.0656 fileid=20030918_1421_1638_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030813.1300.0211 fileid=20030813_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030527.1435.0663 fileid=20030527_1435_1820_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1228.0641 fileid=20030521_1228_1418_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030528.1235.0701 fileid=20030528_1235_1520_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030527.1212.0558 fileid=20030527_1212_1433_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030528.0827.0449 fileid=20030528_0827_1025_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1228.0719 fileid=20030521_1228_1418_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030605.1700.0330 fileid=20030605_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030528.1801.0826 fileid=20030528_1801_2338_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030707.1700.0308 fileid=20030707_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030605.0741.0308 fileid=20030605_0741_0938_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030725.1732.0682 fileid=20030725_1732_2020_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030520.2020.0780 fileid=20030520_2020_2349_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030521.1045.0547 fileid=20030521_1045_1227_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030520.1222.0639 fileid=20030520_1222_1429_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030712.1208.0323 fileid=20030712_1208_1600_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030528.1700.0325 fileid=20030528_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030715.1013.0455 fileid=20030715_1013_1212_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030526.1323.0568 fileid=20030526_1323_1642_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030807.1300.0211 fileid=20030807_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030522.0900.0024 fileid=20030522_0900_1100_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030523.1656.0720 fileid=20030523_1656_2251_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030526.1323.0638 fileid=20030526_1323_1642_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030828.1700.0346 fileid=20030828_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030708.1700.0385 fileid=20030708_1700_1900_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=APE20030605.1930.0784 fileid=20030605_1930_2119_APW_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1244.0365 fileid=20030525_1244_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFE20030525.1244.0366 fileid=20030525_1244_1529_AFP_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIE20030718.1300.0332 fileid=20030718_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030527.0130.0015 fileid=20030527_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030627.0130.0049 fileid=20030627_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=CNA20030521.0530.0019 fileid=20030521_0530_0700_CNA_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFC20030809.0300.0030 fileid=20030809_0300_0500_AFP_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFC20030809.0300.0009 fileid=20030809_0300_0500_AFP_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030520.1530.0240 fileid=20030520_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030612.1130.0159 fileid=20030612_1130_1330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030707.1130.0159 fileid=20030707_1130_1330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFC20030525.0300.0007 fileid=20030525_0300_0500_AFP_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030520.1530.0223 fileid=20030520_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030713.0130.0004 fileid=20030713_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030905.1530.0192 fileid=20030905_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=AFC20030704.0300.0007 fileid=20030704_0300_0500_AFP_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030524.0130.0036 fileid=20030524_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030524.1130.0129 fileid=20030524_1130_1330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=CNA20030522.0530.0011 fileid=20030522_0530_0700_CNA_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030719.1130.0120 fileid=20030719_1130_1330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030524.1130.0180 fileid=20030524_1130_1330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030610.1530.0174 fileid=20030610_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030529.0130.0044 fileid=20030529_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=ZBN20030527.1000.0089 fileid=20030527_1000_1200_ZBN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030609.1530.0168 fileid=20030609_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030523.0130.0030 fileid=20030523_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030527.0130.0004 fileid=20030527_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030528.0130.0025 fileid=20030528_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55128 level=YES docno=XIN20030521.0130.0018 fileid=20030521_0130_0330_XIN_CHN comments="none">
+*****************************************************************************************************************************
+
+55131.  Ancient Fresco Discovered in Syrian Church 
+Seminal Event 	ARB
+
+WHO: person who discovered the fresco
+WHAT: 6th-century church fresco discovered.
+WHEN: 07/05/2003
+WHERE: Syria
+
+Topic Explication 
+A sixth century fresco was discovered at a church in Syria. 
+Background 
+A sixth century fresco was discovered at a church in Syria. 
+Terminology 
+Timeline 
+07/05/2003 
+Rule of Interpretation Science and Discovery News 
+Seed Story: AFA20030705.1036.0088
+
+<ONTOPIC topicid=55131 level=YES docno=AFA20030705.1036.0088 fileid=20030705_1036_2318_AFP_ARB comments="none">
+*****************************************************************************************************************************
+
+55158.  Scientists in Brazil create a calf from a dead cow 
+Seminal Event 	MAN
+
+WHO: Brazil's agriculture research institute
+WHAT: Scientists in Brazil succeeded in producing a calf from the cells of a dead cow using cloning technology. 
+WHEN: 09/04/2003
+WHERE: Brazil
+
+Topic Explication 
+Scientists in Brazil claim they have succeeded in creating a living cow from the cells of a dead cow using cloning technology. The calf, born on September 4, was in perfect health. The technique could also be used to replace dead members of endangered species. 
+Background 
+The project came about as the result of an accidental death. An eight-year-old cow called T Melo Lenda, who had earned renown as a milk producer, was killed accidentally on November 5. Although her owners extracted her ovaries, the eggs would not germinate. So Rumpf and his team used cells gathered from the outer ovaries to clone the cow, called Lenda. Lenda joins a growing list of animal species that scientists have cloned from adult cells, comprising horses sheep, mice, rabbits, goats, cats and pigs. 
+Rodolfo Rumpf, who led the research for Investigaciones Agropecuarias (Embrapa), said that cloning can be used when an animal of high genetic value has died from an accident. Cattle have been cloned before initially by scientists in New Zealand but Lenda is the first to be cloned using a dead cows cells. On March 17, 2001, Brazil became a pioneer in the cloning of animals in Latin America with the birth of a calf named Vitoria da EMBRAPA. 
+Terminology 
+T Melo Lenda 
+Rodolfo Rumpf
+cloning 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030915.1530.0227
+
+<ONTOPIC topicid=55158 level=YES docno=XIN20030915.1530.0227 fileid=20030915_1530_1730_XIN_CHN comments="none">
+*****************************************************************************************************************************
+
+55168.  Wright replica flight fails 
+Seminal Event 	MAN
+
+WHO: The Wright Redux Association
+WHAT: Replica of Wright plane fails to fly.
+WHEN: 09/20/2003
+WHERE: lawn of the Museum of Science and Industry in Chicago
+
+Topic Explication 
+Almost 100 years after the Wright Brothers made the first manned airplane flight, a replica of their aircraft failed to leave the ground, because there was not enough wind. 
+Background 
+The original Wright Flyer first flew on 17 December 1903 at Kitty Hawk, North Carolina. The original Wright Flyer got off the ground for 12 seconds and flew for barely 35 meters.
+The Chicago team's replica -- The Spirit of Glen Ellyn -- is made of wood, metal and cotton fabric. Building the plane took four years and an estimated 5,000 hours donated by hundreds of volunteers. 
+Terminology 
+Ken Kirincic and Michael Gillian (Pilots) 
+the Wright Redux Association
+Chicago's Museum of Science and Industry
+
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030920.1130.0164
+
+<ONTOPIC topicid=55168 level=YES docno=XIN20030920.1130.0164 fileid=20030920_1130_1330_XIN_CHN comments="none">
+*****************************************************************************************************************************
+
+55169.  1400 year-old tomb unearthed 
+Seminal Event 	MAN
+
+WHO: Xian Municipal Archaeological Research Institute, Chen Fuxi (director of Xian Municipal Archaeological Research Institute)
+WHAT: Unearthed tomb treasure buried 1400 years ago in Xian, China
+WHEN: 08/26/2003
+WHERE: Xian, China
+
+Topic Explication 
+The Xian Archaeological Research Institute in Shaanxi Province unearthed a tomb of Sogdian to the east of Chang An City historic site in Xian in August, 2003. The tomb was dated 1400 years ago. 
+Background 
+This was the first time that the historical relics about the Sogdian was excavated, which was of significance for studying the cultures of minorities, religions from other countries and the cultural exchange between ancient China and other countries. The Sogdian used to live in the Middle Asia between the 3rd century and 7th century. They controlled the commerce and trade along the Silk Road for quite a long time. There are some unknown characters on the walls of the tomb except for Sogdian language. Colorful sculptures and paintings reflect different cultures and religions, which has a bearing for the study of the sculptures and drawings in early Tang Dynasty, as well as for the study of a variety of religions existed in Chang An City in Han Dynasty. 
+Terminology 
+Sogdian Xian Archaeological Research Institute in Shaanxi Province 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030825.1530.0209
+
+<ONTOPIC topicid=55169 level=YES docno=XIN20030825.1530.0209 fileid=20030825_1530_1730_XIN_CHN comments="none">
+*****************************************************************************************************************************
+
+55170.  First Nigerian satellite in space 
+Seminal Event 	MAN
+
+WHO: Russia, Nigeria TV station, Nigeria's Science and Technology Minister Turner Isoun
+WHAT: Russian rocket carries the first Nigerian satellite into space.
+WHEN: 09/27/2003
+WHERE: Plesetsk Cosmodrome, Russia
+
+Topic Explication 
+A Russian Kosmos-3M booster rocket took the first Nigerian satellite into orbit on September 27, 2003 after a 24-hour delay. The satellite is to be used for monitoring weather and natural disasters, mapping, territorial surveillance and data gathering. 
+Background 
+People have argued that a country where more than 80 million out of 126 million citizens live in poverty ought not to be spending its limited resources on a space program. But other people say that for large countries such as Nigeria, space-based observation can make economic sense since monitoring things like deforestation and water resources from the ground can be very laborious.
+Unexplained technical problems delayed the launch for one day. 5 Nigerian engineers and scientists had been working on the 13-million-dollar project. The launch means Nigeria becomes the third African country to have a presence in space, after South Africa and Algeria.
+After the launching, Nigeria would start working toward the National Satellite II. The first satellite would address the issues of remote sensing which involved the understanding and management of environment and natural resources using space-acquired information. The second satellite, tagged "Communication Satellite," would be concerned with information technology. 
+Terminology 
+Kosmos-3M booster rocket 
+Satellite 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: AFC20030927.0300.0015
+
+<ONTOPIC topicid=55170 level=YES docno=AFC20030927.0300.0015 fileid=20030927_0300_0500_AFP_CHN comments="none">
+*****************************************************************************************************************************
+
+55237.  WHO removes Singapore from list of SARS-affected areas 
+Seminal Event 	MAN
+
+WHO: WHO
+WHAT: WHO removes Singapore from the list of SARS epidemic area
+WHEN: 05/31/03
+WHERE: Singapore
+
+Topic Explication 
+The World Health Organization (WHO) has removed Singapore from the list of countries with recent local transmission of SARS. The WHO deleted Singapore from list after the country went more than 20 days without reporting a locally-acquired case. The organization said the 20-day period represented twice the maximum incubation period - a reliable indication, following established epidemiological principles, that a chain of transmission has been broken. 
+Background 
+Singapore was initially scheduled to come off the list on May 11, but in what the WHO described as an outstanding example of prompt and open reporting the country's announced a new case on the same day.
+From the start, Singapore's handling of its SARS outbreak has been exemplary, said David Heymann, executive director for communicable diseases at WHO. The WHO said that although continued vigilance was necessary to prevent the importation of cases, it no longer recommended exit screening of international travelers departing from Singapore. The absence of local transmission for twice the incubation period means that neither residents nor travelers are at risk of acquiring SARS in Singapore. 
+Singapore welcomed the announcement and said it remained committed to a long-term fight against the virus. "Notwithstanding the WHO announcement, there will be no pause in our efforts to isolate and contain the disease and to prevent any export of the disease beyond our shores, said a Ministry of Health spokesperson. We will continue to maintain the highest level of vigilance, especially at all our border checkpoints, at our hospitals and healthcare facilities, schools and tertiary institutions and all government and other premises." 
+Terminology 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030530.1530.0203
+
+<ONTOPIC topicid=55237 level=YES docno=AFE20030531.0510.0180 fileid=20030531_0510_0732_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0810.0350 fileid=20030530_0810_0942_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=XIE20030529.1300.0215 fileid=20030529_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030531.1248.0479 fileid=20030531_1248_1644_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=XIE20030709.1700.0372 fileid=20030709_1700_1900_XIN_ENG comments="mod.in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030630.0831.0400 fileid=20030630_0831_1015_AFP_ENG comments="mod.in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0345.0104 fileid=20030530_0345_0611_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1214.0421 fileid=20030530_1214_1429_APW_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0810.0346 fileid=20030530_0810_0942_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.1707.0719 fileid=20030530_1707_2309_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030716.0545.0232 fileid=20030716_0545_0727_AFP_ENG comments="mod.in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030605.0714.0344 fileid=20030605_0714_0821_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.1707.0750 fileid=20030530_1707_2309_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030602.0345.0145 fileid=20030602_0345_0537_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.1707.0724 fileid=20030530_1707_2309_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=XIE20030530.1300.0214 fileid=20030530_1300_1500_XIN_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030531.0001.0003 fileid=20030531_0001_0510_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030531.0001.0099 fileid=20030531_0001_0510_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0944.0427 fileid=20030530_0944_1149_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0810.0389 fileid=20030530_0810_0942_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.0810.0352 fileid=20030530_0810_0942_AFP_ENG comments="none">
+<ONTOPIC topicid=55237 level=YES docno=XIN20030530.1530.0203 fileid=20030530_1530_1730_XIN_CHN comments="none">
+<ONTOPIC topicid=55237 level=YES docno=XIN20030531.0130.0014 fileid=20030531_0130_0330_XIN_CHN comments="none">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030530.1152.0526 fileid=20030530_1152_1329_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1214.0414 fileid=20030530_1214_1429_APW_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1214.0417 fileid=20030530_1214_1429_APW_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1641.0553 fileid=20030530_1641_1928_APW_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1641.0564 fileid=20030530_1641_1928_APW_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=APE20030530.1641.0573 fileid=20030530_1641_1928_APW_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030604.0532.0248 fileid=20030604_0532_0723_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030604.0532.0297 fileid=20030604_0532_0723_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030605.0333.0131 fileid=20030605_0333_0524_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030605.1841.0793 fileid=20030605_1841_2326_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030608.1308.0419 fileid=20030608_1308_1710_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=XIE20030610.1700.0288 fileid=20030610_1700_1900_XIN_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFE20030617.0536.0278 fileid=20030617_0536_0704_AFP_ENG comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=CNA20030607.0530.0013 fileid=20030607_0530_0700_CNA_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030609.0300.0007 fileid=20030609_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030609.0300.0019 fileid=20030609_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=CNA20030614.0530.0009 fileid=20030614_0530_0700_CNA_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=CNA20030621.0530.0008 fileid=20030621_0530_0700_CNA_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030908.0300.0005 fileid=20030908_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030908.0300.0033 fileid=20030908_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030909.0300.0008 fileid=20030909_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030909.0300.0016 fileid=20030909_0300_0500_AFP_CHN comments="new in v2.0">
+<ONTOPIC topicid=55237 level=YES docno=AFC20030909.0300.0031 fileid=20030909_0300_0500_AFP_CHN comments="new in v2.0">
+*****************************************************************************************************************************
+
+55243.  The First Dental Museum in China 
+Seminal Event 	MAN
+
+WHO: Dental Museum
+WHAT: The first dental museum in China is opened to the public
+WHEN: 09/20/2003
+WHERE: Harbin, China
+
+Topic Explication 
+The first Dental Museum in China opened to the public in Harbin on September 20, 2003. This museum is founded by Harbin Haiyuan Dental company and Harbin Shenan Medical Research Institute. It is a free museum, occuping around 150 square meters and including ancient, modern and contemporary sections. This museum demonstrates the systematical development of China's dental treatment, education and management. 
+Background 
+The museum curator, Yong Lin, says that the purpose of founding this museum is to help the public get familiar with China's dental medical history and dental knowledge and to make the public pay more attention to teeth. The founder said they will invest 1000,000 Yuan to improve and broaden this museum. 
+Terminology 
+dental museum
+Harbin 
+Timeline 
+Rule of Interpretation Science and Discovery News 
+Seed Story: XIN20030920.0130.0030
+
+<ONTOPIC topicid=55243 level=YES docno=XIN20030920.0130.0030 fileid=20030920_0130_0330_XIN_CHN comments="none">

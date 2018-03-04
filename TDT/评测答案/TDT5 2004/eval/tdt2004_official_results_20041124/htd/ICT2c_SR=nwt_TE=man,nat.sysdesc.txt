@@ -1,0 +1,39 @@
+ict/MulLevelCluster
+TDT Hierarchical Topic Detection Task
+
+1) PRIMARY TEST SYSTEM DESCRIPTION:
+Using hierarchical agglomerate clustering method first to cluster all the texts into microclusters,
+then using singlepass to cluster the microclusters for many levels. In each level,the threshold is 
+decreased by a decimal--BC than former level.
+
+Cosine + time decay correlation was used as a similarity metric. 
+
+   D(di,dj) =  cos(di,dj)*(1-i/m)
+
+Both story vectors were weighted using tf*IDF weighting scheme :
+
+     IDF = log (N / DF) / log (N)
+
+
+2) TRAINING:
+using TDT4 corpus for training 
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST:
+none.
+
+4) NEW CONDITIONS FOR THIS EVALUATION:
+
+m = 280
+bucket size = 10000
+bottem level threshold : 0.35
+BC = 0.07
+
+
+5) REFERENCES:
+[1] Yang, Y., Pierce, T., Carbonell, J. G. A Study on Retrospective and On-line 
+Event Detection. ACM SIGIR Conference on Research and Development in Information
+ Retrieval (SIGIR'98).
+[2] Allan, J., Carbonell, J.G., Doddington, G., Yamron, J. and Yang Y. Topic Det
+ection and Tracking Pilot Study Final Report, Proceedings of the Broadcast News 
+Transcription and Understranding Workshop (Sponsored by DARPA), Feb. 1998.
+

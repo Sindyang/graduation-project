@@ -1,0 +1,31 @@
+# TRACKING RECID TOPIC=55239
+#
+# Generated: on Wed Sep 15 08:34:30 EDT 2004
+#            by command '/Volumes/fudd/TDT/Software/TDT3eval-cvs/TDT3BuildIndex.pl -t 4 -v 2 -s -A -R /Volumes/fudd/TDT/Corpora/SCRATCH/tdt5_multilanguage_text_v1.1 -r 92810317 -f index.flist -O . -y 2000 -j /Volumes/fudd/TDT/Eval04/relevance_judgements/tdt2004_topic_annotations_v1.0/TDT2004.topic_rel.v1.0 -m -X bn'
+#
+#
+# Training documents are chronologically listed.  Use the last Nt(th) storys
+# for training condition Nt.  The format of the lines are as follows:
+#    '# Topic_training_story <Target_Story_docno> <Source_file> <Begin> <End>'
+# Should the training story NOT have any words associated with it, the begin
+# and end time/recids will be -1
+#
+# Topic_training_story XIE20030424.1700.0237 tkn/20030424_1700_1900_XIN_ENG.tkn 4029 4212
+# Topic_training_story XIE20030424.1700.0242 tkn/20030424_1700_1900_XIN_ENG.tkn 4808 5048
+# Topic_training_story XIE20030930.0900.0041 tkn/20030930_0900_1100_XIN_ENG.tkn 8284 8409
+#
+# The Certified Off-topic Training documents are not present because the
+# database of decisions was not found in the following files of the TDT
+# root directory.
+#      /Volumes/fudd/TDT/Corpora/SCRATCH/tdt5_multilanguage_text_v1.1/topics/tdt2_topic_rel.ranked_offtopic_annot
+#      /Volumes/fudd/TDT/Corpora/SCRATCH/tdt5_multilanguage_text_v1.1/topics/tdt3_topic_rel.ranked_offtopic_annot
+#      /Volumes/fudd/TDT/Corpora/SCRATCH/tdt5_multilanguage_text_v1.1/topics/tdt3_em_ranked_offtopic.v1_0
+#      /Volumes/fudd/TDT/Corpora/SCRATCH/tdt5_multilanguage_text_v1.1/topics/tdt3_a_off_topic.v1_0
+#
+#
+# The following constitutes the source files to be tested on.
+# Each line contains two tokens, the source file under test and
+# the recid in the tokenized stream where the testing begins.
+#
+mttkn/20030930_1000_1200_ZBN_MAN.mttkn 1
+mttkn/20030930_1130_1330_XIN_MAN.mttkn 1

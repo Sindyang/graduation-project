@@ -1,0 +1,15 @@
+UIowa/UIowa_w
+Link Detection, deferral = 10
+
+1) PRIMARY TEST SYSTEM DESCRIPTION: normalized Levenshtein edit distance-based similarity
+
+2) TRAINING: TDT4 corpus
+
+3) DIFFERENCES FOR EACH CONTRASTIVE TEST: N/A
+
+4) NEW CONDITIONS FOR THIS EVALUATION: threshold = 0.7
+
+5) REFERENCES: 
+
+     V. I. Levenshtein. Binary codes capable of correcting, deletions, insertions and reversals. Soviet Phys. Dokl.,
+     10:707--710, 1966.

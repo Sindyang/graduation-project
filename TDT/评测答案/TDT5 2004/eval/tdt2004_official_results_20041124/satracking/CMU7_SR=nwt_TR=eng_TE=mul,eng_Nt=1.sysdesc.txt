@@ -1,0 +1,8 @@
+
+-----------------------
+CMU/CMUDIR
+TDT supervised topic tracking task
+1) The system is the YFilter adaptive filterng system developed in CMU Distributed Information Retrieval group. The system was orignally designed for TREC adaptive filtering tack. We only changed the input/out file format processing part of the system for the TDT task. No parameters were tuned for TDT task in this run.
+2) Training: Nt=1, U=10R-NR
+3) References: 
+Y. Zhang Using Bayesian Priors to Combine Classifiers for Adaptive Filtering In Proceedings of the 27st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Sheffield, United Kingdom, 2004 
